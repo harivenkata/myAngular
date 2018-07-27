@@ -1,0 +1,85 @@
+declarative templates, dependency injection, e2e tooling
+supports both web and mobile with no additional coding
+MEAN : Mongo,Express,Angular,Node
+
+Compilation 
+<Angular4 JIT - Just in time
+>=Angular4 AOT - Ahead of time
+
+
+lazy loading??
+
+Angular Architecture (8)
+	- Module
+	- Component 
+	- Template
+	- Metadata
+	- Data Binding 
+	- Service
+	- Directive
+	- Dependency Injection 
+
+	Component to Template -> property binding 
+	Template to component -> event
+	
+Characteristics of SPA (Single page application)
+- Chunking
+- Controller 
+- Templating 
+- Routing 
+
+MVC on Client Side
+
+MVC in Angular
+	Modal is a class
+	view is component.html
+	controller is component.ts
+
+HTML - Structure of web page
+CSS - appearance of web page
+JavaScript - behavior of web page
+
+Having all 3 in same file is obtrusive way.
+current trend is un obtrusive way, where each to be in separate file.
+
+JavaScript 
+<script></script>
+
+place holders in html
+inside <head>
+inside <body>
+along with event handler 
+
+in javascript the global object is 'window'.
+
+iife: immediately-invoked function expression
+module pattern
+reveal module pattern
+
+typeOf  - for primitive type
+instanceOf - for objects
+
+methods can be added Dynamically or as Prototype
+all properties will be defined in function constructor 
+- prototype : will add property to all objects created 
+
+ES6
+- IOT devices
+- mobile apps
+- databases
+- fe & be technologies
+
+Block scoping
+Temporal Dead Zone (let key word to create local scope)
+
+
+
+
+
+
+
+
+
+
+
+	

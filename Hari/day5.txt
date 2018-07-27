@@ -1,0 +1,34 @@
+Routing with parameter
+Router Guard 
+Routing child 
+
+
+Model Driven Forms
+
+	Validation
+		touched or untouched
+		valid invalid
+		pristine or dirty
+
+validators.required
+validators.required
+validators.required
+validators.required
+validators.required
+
+ngNativeValidate
+
+
+LifeCycle Hooks
+	For Parent
+		1. constructor -> dependency injection 
+		2. ngOnChanges
+		3. ngOnInit
+		4. ngDoCheck - every key stroke event, 
+		6. ngOnDestroy
+	For Children
+		5.a> ngAfterContentInit
+		5.b> ngAfterContentChecked  - every key stroke event, 
+		5.c> ngAfterViewInit
+		5.d> ngAfterViewChecked  - every key stroke event, 
+

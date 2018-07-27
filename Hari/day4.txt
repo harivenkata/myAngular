@@ -1,0 +1,49 @@
+types of Pipes
+	Pure 
+		- by default - executes when there is change
+	Impure
+		@Pipe({name:'impurePipe',pure: false})
+ViewEncapsulation 
+	none
+	native 
+		- scoped to component
+		- isolated from global style
+		- bootstrap styles are not inherited
+	emulated 
+		- default 
+		- no shadow DOM
+		- renames styles
+		- inherits global/boot strap styles
+		- defined styles will not leak to out side of component
+
+Add Components Dynamically 
+	- ViewContainerRef
+		- ViewChild
+	- Create()
+		- to create new component
+	- Detach
+Forms
+	- ReactiveFormsModule
+	- FormsModule
+Template-Driven forms
+
+Validation
+	- novalidate: disable native way of validation by browser.
+	- ngNativevalidate
+	
+
+build 
+
+Routing
+ - import { RouterModule, Routes } from '@angular/router'
+
+Routing Attributes
+	- path
+	- component 
+	- redirectTo
+	- pathMatch
+	
+	
+shadow DOM??
+pristine
+dirty

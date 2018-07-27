@@ -1,0 +1,20 @@
+DataBinding
+	property binding
+	component binding
+	Directive binding 
+		Attribute directive
+			ngStyle
+			ngClass
+		Structural Directive
+			*ngIf	- else
+			*ngFor
+			*ngSwitch
+		Template Directive
+			ng-template
+
+Communication between Components
+	using @input()
+	using @output()
+	using services
+	parent component calling ViewChild
+

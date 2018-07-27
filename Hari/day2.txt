@@ -1,0 +1,76 @@
+ES6(...continue)
+Arrow function
+
+NODE.JS
+web application - express
+MVC application - sails
+
+parts of node.js
+modules
+servers
+read request and return response
+
+node develop env
+node.js
+ide
+npm (node package manager)
+
+node module parts
+core modules
+local modules 
+third party modules
+
+exporting function
+1. module.exports = functionName
+2. exports.functionName = function(){...}
+
+gulp,bower..??
+
+-S, --save : both prod & development
+-D, --save-dev : for development only
+-O, --save-opt : optional dependencies 
+
+^2.2.3 - fixes major version (between 2.2.3 to 3.0.0)
+~2.2.3 - fixes both major & minor versions (between 2.2.0 to 2.3.0)
+2.* - any version (between 2.0.0 to 3.0.0)
+
+typescript
+Static checking (during typing code, can check)
+tools
+
+declaring variables
+let variablename:type = value
+	ex: num:number = 45; str:string = "Hari";
+
+array
+1. num:number[] = [1,2,3,4];
+2. num:Array<number> = [1,2,3,4]
+
+enum (numbers)
+	enum strClr = [Red, Green, Blue=4]
+
+enum (string)
+	enum strClr = [red='Red', green='Green', blue='Blue']
+	
+compiling ts flie
+cmd>> tsc filename.ts
+
+angular
+
+webpack or SystemJS are module loaders
+
+built in directive
+structural
+attribute directive
+
+structural - to change DOM structure 
+prefix with *
+	*ngFor
+
+Dependency Injection
+
+
+	
+
+
+
